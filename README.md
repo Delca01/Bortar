@@ -1,5 +1,5 @@
 # Bortar
-Bortar is a wine catalog, written as a dissertation, and extended as an excercise.
+Bortar is a wine catalog, written as a school project, and extended as an excercise.
 
 It's a simple PHP web project using MySQL, that lets you catalog your wines as you see fit. During development my goal was to make this project widely applicable. 
 Popular personal applications like Delectable or Vivino are very useful for mobile use and for keeping track of your personal wine collection (although they really only work
